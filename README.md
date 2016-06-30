@@ -403,6 +403,7 @@
 - [使用JSON.parse遇到的问题 - 技术分享 - 豆豆技术网](http://tech.ddvip.com/2014-05/1399208603210186.html)
 
 - [理解OAuth 2.0 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
+- [JavaScript Promise迷你书（中文版）](http://liubin.org/promises-book/)
 
 ##正则
 
